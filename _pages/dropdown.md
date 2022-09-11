@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 6
-dropdown: false
+title: Assignments
+nav: true
+nav_order: 2
+dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Paper review
+      permalink: /review/
     - title: divider
-    - title: projects
+    - title: Final project
       permalink: /projects/
 ---

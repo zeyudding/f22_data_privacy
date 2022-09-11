@@ -21,6 +21,26 @@ table {
   }
 }
 
+.scheduletablestyle {
+  margin-right: auto;
+  margin-left: auto;
+  border-collapse: collapse;
+  table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  thead {
+    background-color: #cfcfd4;
+    color: #fff;
+  }
+  th {text-align:center
+  }
+  tbody tr:nth-child(even){
+    background-color: #edeef3;
+    color: #fff;
+  }
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
