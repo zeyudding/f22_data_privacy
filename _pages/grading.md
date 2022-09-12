@@ -32,4 +32,4 @@ The final grade for this course will be determined according to the following ta
 | C- | [60, 64) |
 | D | [55, 60) |
 | F | [0, 55) |
-{:.mytable}
+{:.table_with_border}

@@ -21,13 +21,24 @@ table {
   }
 }
 
-.mytable {
+.table_with_border {
   margin-right: auto;
   margin-left: auto;
   border-collapse: collapse;
   table, td, th {
     border: 1px solid black;
-    padding: 3px;
+    padding: 5px;
+  }
+  th {text-align:center
+  }
+}
+
+.table_no_border {
+  margin-right: auto;
+  margin-left: auto;
+  border-collapse: collapse;
+  table, td, th {
+    padding: 5px;
   }
   th {text-align:center
   }
