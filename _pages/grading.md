@@ -10,12 +10,13 @@ nav_order: 4
 Your final grade is based on the following:
 
 * Paper presentation (10%)
-    * During the semester, each student will present a paper for 20 minutes (15 min presentation plus 5 min Q&A). If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.
+    * During the semester, each student will present a paper for 15 minutes (12 min presentation plus 3 min Q&A). If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.
+    * **Click [here](https://docs.google.com/spreadsheets/d/1266BhzedPMIraKmqKr0fMu-fjoHM2QQmGJzysej4ado/edit?usp=sharing) to reserve a presentation slot** (you can fill the paper title later). 
 * Paper review (5 * 6% = 30%)
     * Each student is required to write five paper reviews for papers presented in the course. Submit your paper reviews on [Brightspace](https://brightspace.binghamton.edu/). Please read this guideline before you write a review.
 * Two assignments (20%) for theory (proofs) and practice (programming)
 * Final project (group of size 1, 2 or 3: 40%)
-    * Click [here](https://docs.google.com/spreadsheets/d/1Sbka2ssnBmBA_SFjplAI-KE0fgwbwO5Ne5832naLMus/edit?usp=sharing) to register your team with a tentative title, and submit your final report on [Brightspace](https://brightspace.binghamton.edu/). If desired, teams can utilize office hours to get feedback on the project.
+    * **Click [here](https://docs.google.com/spreadsheets/d/1Sbka2ssnBmBA_SFjplAI-KE0fgwbwO5Ne5832naLMus/edit?usp=sharing) to register your team with a tentative title, and submit your final report on [Brightspace](https://brightspace.binghamton.edu/)**. If desired, teams can utilize office hours to get feedback on the project.
 
 The final grade for this course will be determined according to the following table:
 

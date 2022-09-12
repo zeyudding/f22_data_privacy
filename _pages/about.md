@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: Course
 permalink: /
 subtitle: Fall 2022
 # <a href='https://www.binghamton.edu/computer-science/index.html'>Department of Computer Science</a>. Address. Contacts. Moto. Etc. https://www.binghamton.edu/watson/ https://www.binghamton.edu/watson/ https://www.binghamton.edu/watson/
