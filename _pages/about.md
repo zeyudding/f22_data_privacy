@@ -25,7 +25,7 @@ This course will explore both threats to privacy and solutions to the data priva
 
 * Class Time: T&R 2:50 – 4:15 PM
 * Location: Science Library (SL) 310
-* Instructor: Zeyu Ding
+* Instructor: [Zeyu Ding](zeyuding.com)
   * Email: dding1@binghamton.edu	  
   * Office: EB N34
   * Office hours: M&W 3:00 – 4:00 PM or by appointment
