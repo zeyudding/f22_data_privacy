@@ -3,13 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: CS480/580T Topics in Data Privacy
+first_name: CS 480/580T
 middle_name:
-last_name: Fall 2022
+last_name: Topics in Data Privacy
 email:
-description:
+description: Topics in Data PRivacy
 footer_text:
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

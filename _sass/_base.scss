@@ -21,23 +21,15 @@ table {
   }
 }
 
-.scheduletablestyle {
+.mytable {
   margin-right: auto;
   margin-left: auto;
   border-collapse: collapse;
   table, td, th {
     border: 1px solid black;
-    padding: 5px;
-  }
-  thead {
-    background-color: #cfcfd4;
-    color: #fff;
+    padding: 3px;
   }
   th {text-align:center
-  }
-  tbody tr:nth-child(even){
-    background-color: #edeef3;
-    color: #fff;
   }
 }
 

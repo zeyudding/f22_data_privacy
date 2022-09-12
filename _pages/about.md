@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle: Fall 2022
 # <a href='https://www.binghamton.edu/computer-science/index.html'>Department of Computer Science</a>. Address. Contacts. Moto. Etc. https://www.binghamton.edu/watson/ https://www.binghamton.edu/watson/ https://www.binghamton.edu/watson/
 
 # profile:
@@ -15,6 +15,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
 
 ### Course Description
 
