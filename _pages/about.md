@@ -16,6 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+---
 
 ### Course Description
 
@@ -25,13 +26,16 @@ This course will explore both threats to privacy and solutions to the data priva
 
 * Class Time: T&R 2:50 – 4:15 PM
 * Location: Science Library (SL) 310
-* Instructor: [Zeyu Ding](zeyuding.com)
+* Instructor: [Zeyu Ding](https://zeyuding.com)
   * Email: dding1@binghamton.edu	  
   * Office: EB N34
   * Office hours: M&W 3:00 – 4:00 PM or by appointment
 
 * Grader: Lata Sagnali
   * Email:  lsagnal1@binghamton.edu
+
+
+---
 
 ### Learning Objectives
 
@@ -42,6 +46,7 @@ By the end of this course, you will be able to:
 * Safely implement privacy solutions, and experimentally validate the performance and utility of algorithms
 * Understand differential privacy at a level sufficient to engage in research about best practices in implementation, apply the material in practice, and/or connect it to other areas
 
+---
 
 ### Prerequisites
 
@@ -49,6 +54,9 @@ By the end of this course, you will be able to:
 * Data Structures and Algorithms: CS 240 or equivalent
 * Linear Algebra: MATH 304 or equivalent
 * Probability and Statistics: MATH 327 or MATH 448 or equivalent
+
+
+---
 
 ### Textbooks and Other Materials
 

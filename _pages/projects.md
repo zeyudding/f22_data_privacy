@@ -7,7 +7,11 @@ nav: false
 nav_order: 6
 ---
 
+---
+
 **Click [here](https://docs.google.com/spreadsheets/d/1Sbka2ssnBmBA_SFjplAI-KE0fgwbwO5Ne5832naLMus/edit?usp=sharing) to register your team with a tentative title, and submit your final report on [Brightspace](https://brightspace.binghamton.edu/)**
+
+---
 
 The goal of doing a project in this course is to explore data privacy by yourself and find something that interests you and make you feel really excited to investigate deeper. You may form teams of one to three people.
 

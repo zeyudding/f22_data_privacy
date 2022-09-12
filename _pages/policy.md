@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+---
+
 ### Academic Honesty
 
 * Computer science faculty at Binghamton wrote a letter to all computer science students about the importance of academic honesty. This letter is available on Brightspace and at this link.
@@ -27,6 +29,7 @@ nav_order: 5
 
   * Copying/communicating during exams.  
 
+---
 
 ### Course Policies
 
@@ -71,6 +74,8 @@ nav_order: 5
   * After that your final grade will be reduced 1 point for each missed class without a valid reason. If you miss 10 or more additional classes without a valid reason you automatically fail the course.
     
   * Please let the instructor know any valid reason for missing a class and please inform the instructor ahead of time by email whenever possible.
+
+---
 
 ### COVID Policies
 

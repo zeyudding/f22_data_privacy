@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+---
+
 Your final grade is based on the following:
 
 * Paper presentation (10%)

@@ -7,8 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+---
+
 ### Tentative Schedule
 
+---
 
 <!-- | Week |       Dates      |  Tuesday | Thursday | Reading Materials |
 |:----:|:----------------:|---------|---------|--------|

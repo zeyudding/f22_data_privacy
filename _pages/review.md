@@ -9,6 +9,8 @@ nav_order: 5
 
 **These reviewing guidelines are borrowed from a number of top conferences, including ACM CCS, SIGMOD and others.**
 
+---
+
 ### Overview
 
 When you prepare your reviews, please consider that they serve two critical purposes:
@@ -19,6 +21,8 @@ Regardless of whether a review marks a paper as accept or reject, it should be *
 Novelty can manifest in many ways that go beyond the traditional requirement of having a new algorithm or new system design. When reviewing papers, we would like to consider many additional aspects of novelty such as having a novel result, novel engineering, or a novel benchmark. That is, even if the algorithms used and the problem itself are not dramatically new, a paper might still be providing new and useful insights.
 
 Papers that have not gone through peer-review and are not formally published can be brought up if a reviewer feels it is relevant to inform the authors, but such papers cannot be considered in a way that diminishes the novelty of the submitted work or in order to ask the authors to compare explicitly against them, e.g., with experiments. This includes papers on arXiv and white papers.
+
+---
 
 #### Review template
 
@@ -38,10 +42,13 @@ Please follow this structure:
 * Detailed comments
     * Detailed questions for authors to respond, and more constructive suggestions.
 
+---
 
 #### Review length
 
 A good review should cover at least the following aspects of the paper in detail: problem focus and motivation, technical contributions, experimental evaluation, related work, and overall presentation. Please elaborate with regards to strong and weak points on all these fronts with detailed comments. We expect an ideal review to span at least 4-5 paragraphs, discussing these aspects. A very short review is very likely a bad review. Recall, that one of the purposes of your review is to give authors constructive feedback, and a short review does not accomplish that.
+
+---
 
 #### Critiquing the paper’s motivation and focus
 
@@ -60,6 +67,8 @@ A good review should evaluate the importance and relevance of the problem that t
 
 * “The introduction of the paper attempts to explain the problem the paper intends to address. However, the introduction makes several self-contradicting statements (such as….) and thus the current presentation makes it sheer impossible to adequately understand the actual problem the paper addresses….”
 
+---
+
 #### Critiquing the technical contributions
 
 A big part of your review is to evaluate the technical contributions of the work. Examine the claims made in the paper, judge if they are applicable to the problem, and evaluate their expected importance, applicability, and usefulness. If you believe that some assumptions of the paper are too restrictive and make the problem unrealistic or narrow, explain that. However, you should avoid tainting your evaluation with personal opinions. Judge the work that the authors are presenting, rather than the work that you would have preferred to see.
@@ -75,6 +84,8 @@ It is great to bring up additional contributions that you would like to see and 
 ##### More constructive:
 
 * “Algorithm A is non-trivial and has low time complexity. However, it requires maintaining a very large data structure in memory, which might make it impractical for large datasets. Perhaps the algorithm can be improved or shown to be applicable to large datasets?”
+
+---
 
 #### Critiquing the evaluation
 
@@ -93,6 +104,8 @@ Your review should evaluate whether the experiments validate the claims of the p
 
 In addition, as you consider such remarks, please consider space restrictions. For example, are there any of the existing experiments that you think are less useful and can be dropped?
 
+---
+
 #### Critiquing the writing and presentation
 
 You may often find the presentation of a paper unsatisfactory. Please list specific points of possible improvement such as repetitiveness, poor structure, confusing notation, missing examples, or lack of formalism. However, make sure that you provide concrete examples and pointers for your criticisms. For example, explain what notation confused you, which terms were not properly defined, and which statements should be made more rigorous. Communicating vague discontent about the readability of the paper is not constructive, because it doesn’t explain to the authors how they can improve it.
@@ -110,6 +123,8 @@ You may often find the presentation of a paper unsatisfactory. Please list speci
 
 * “There is a clash of notation: sometimes $\alpha$ is used to represent a query answer, but it is also the approximation factor in Algorithm 1.”
 
+---
+
 #### Critiquing the related work
 
 You should ensure that the paper includes sufficient discussion of the related work, explains similarities and differences, and does not omit obvious connections. Keep in mind however that, unless you are reviewing a survey paper, there will always be some citations that could have been added but weren’t. Do not criticize a paper for the omission of a particular citation if it already includes sufficient discussion of the related work in the particular area. Do point out though glaring omissions and important connections that were missed.
@@ -125,6 +140,8 @@ You should ensure that the paper includes sufficient discussion of the related w
 ##### More constructive:
 
 * “The authors mention connections to [X] in the related work, but they do not explain why [X] is not directly applicable and why a new approach is needed.”
+
+---
 
 #### Inclusive language
 
