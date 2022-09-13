@@ -89,6 +89,7 @@ nav_order: 3
         <td>MPC (cont.)</td>
         <td style='font-size:80%'>
         <ul>
+        <li><a href="https://research.cs.wisc.edu/areas/sec/yao1982-ocr.pdf">Protocols for Secure Computations</a></li>
         </ul>
         </td>
     </tr>
