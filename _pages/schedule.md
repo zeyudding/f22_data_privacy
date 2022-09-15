@@ -80,23 +80,37 @@ nav_order: 3
         <ul>
         <li><a href="https://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B02.pdf">A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms</a></li>
         <li><a href="http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/teaching/papers_and_books/SigningContracts.pdf">A Randomized Protocol for Signing Contracts</a></li>
+        <a href="https://research.cs.wisc.edu/areas/sec/yao1982-ocr.pdf">Protocols for Secure Computations</a>
         </ul>
         </td>
     </tr>
     <tr>
         <td align="center">W4, 09/12 - 09/16</td>
         <td>MPC (cont.)</td>
-        <td>MPC (cont.)</td>
+        <td>MPC (cont.)<br>Homomorphic Encryption</td>
         <td style='font-size:80%'>
         <ul>
-        <li><a href="https://research.cs.wisc.edu/areas/sec/yao1982-ocr.pdf">Protocols for Secure Computations</a></li>
+        <li><a href="https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf">Fully Homomorphic Encryption Using Ideal Lattices</a></li>
+        <li><a href="https://eprint.iacr.org/2009/616.pdf">Fully Homomorphic Encryption over the Integers</a></li>
+        <li><a href="https://eprint.iacr.org/2010/520.pdf">Implementing Gentry’s Fully-Homomorphic Encryption Scheme</a></li>
+        <li><a href="https://eprint.iacr.org/2011/344.pdf">Efficient Fully Homomorphic Encryption from (Standard) LWE</a></li>
+        <li><a href="https://eprint.iacr.org/2011/277.pdf">(Leveled) Fully Homomorphic Encryption without Bootstrapping</a></li>
+        <li><a href="Fully Homomorphic SIMD Operations">Fully Homomorphic SIMD Operations</a></li>
+        <li><a href="https://eprint.iacr.org/2013/340.pdf">Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based</a></li>
+        <li><a href="https://eprint.iacr.org/2013/541.pdf">Lattice-Based FHE as Secure as PKE</a></li>
+        <li><a href="https://eprint.iacr.org/2014/816.pdf">FHEW: Bootstrapping Homomorphic Encryption in Less than a Second</a></li>
+        <li><a href="https://eprint.iacr.org/2016/421.pdf">Homomorphic Encryption for Arithmetic of Approximate Numbers</a></li>
+        <li><a href="https://eprint.iacr.org/2018/421.pdf">TFHE: Fast Fully Homomorphic Encryption over the Torus</a></li>
+        <li><a href="https://www.pnas.org/doi/10.1073/pnas.1918257117">Secure Large-Scale Genome-Wide Association Studies Using Homomorphic Encryption</a></li>
+        <li><a href="https://www.microsoft.com/en-us/research/publication/cryptonets-applying-neural-networks-to-encrypted-data-with-high-throughput-and-accuracy/">CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy
+</a></li>
         </ul>
         </td>
     </tr>
     <tr>
         <td align="center">W5, 09/19 - 09/23</td>
         <td>Zero Knowledge Proofs</td>
-        <td>Homomorphic Encryption</td>
+        <td>Intro to Differential Privacy</td>
         <td style='font-size:80%'>
         <ul>
         </ul>
