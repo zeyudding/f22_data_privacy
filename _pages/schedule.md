@@ -109,10 +109,16 @@ nav_order: 3
     </tr>
     <tr>
         <td align="center">W5, 09/19 - 09/23</td>
-        <td>Zero Knowledge Proofs</td>
-        <td>Intro to Differential Privacy</td>
+        <td>HE (cont.)<br>Zero Knowledge Proofs</td>
+        <td>Zero Knowledge Proofs (cont.)</td>
         <td style='font-size:80%'>
         <ul>
+        <li><a href="https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf">The Knowledge Complexity of Interactive Proof Systems</a></li>
+        <li><a href="https://people.csail.mit.edu/vinodv/6892-Fall2013/efficientargs.pdf">A Note on Efficient Zero-knowledge Proofs and Arguments</a></li>
+        <li><a href="https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/Computationally_Sound_Proofs.pdf">Computationally Sound Proofs</a></li>
+        <li><a href="https://eprint.iacr.org/2013/279">Pinocchio: Nearly Practical Verifiable Computation</a></li>
+        <li><a href="https://eprint.iacr.org/2016/260.pdf">On the Size of Pairing-based Non-interactive Arguments</a></li>
+        <li><a href="https://eprint.iacr.org/2018/046.pdf">Scalable, Transparent, and Post-Quantum Secure Computational Integrity</a></li>
         </ul>
         </td>
     </tr>
@@ -140,6 +146,11 @@ nav_order: 3
         <td>DP Mechanisms</td>
         <td style='font-size:80%'>
         <ul>
+        <li><a href="https://www.iacr.org/archive/eurocrypt2006/40040493/40040493.pdf">Our Data, Ourselves: Privacy via Distributed Noise Generation</a></li>
+        <li><a href="https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf">Calibrating Noise to Sensitivity in Private Data Analysis</a></li>
+        <li><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2012/10/lsbs.pdf">On Significance of the Least Significant Bits For Differential Privacy</a></li>
+        <li><a href="https://arxiv.org/abs/1702.07476">Renyi Differential Privacy</a></li>
+        <li><a href="https://www.jstor.org/stable/2283137#metadata_info_tab_contents">Randomized Response: A Survey Technique for Eliminating Evasive Answer Bias</a></li>
         </ul>
         </td>
     </tr>
