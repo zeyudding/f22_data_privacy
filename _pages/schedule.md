@@ -160,6 +160,17 @@ nav_order: 3
         <td>No Class (Fall Break)</td>
         <td style='font-size:80%'>
         <ul>
+        <li><a href="https://arxiv.org/abs/0811.2841">Universally Utility-Maximizing Privacy Mechanisms</a></li>
+        <li><a href="https://arxiv.org/abs/1603.01699">Understanding the Sparse Vector Technique for Differential Privacy</a></li>
+        <li><a href="http://kunaltalwar.org/papers/expmech.pdf">Mechanism Design via Differential Privacy</a></li>
+        <li><a href="https://arxiv.org/abs/0904.0942">Boosting the Accuracy of Differentially Private Histograms through Consistency</a></li>
+        <li><a href="https://arxiv.org/pdf/0909.5530.pdf">Differential Privacy via Wavelet Transforms</a></li>
+        <li><a href="https://arxiv.org/abs/1601.03229">Privtree: A Differentially Private Algorithm for Hierarchical Decompositions</a></li>
+        <li><a href="https://arxiv.org/abs/1103.5170">Differentially Private Spatial Decompositions</a></li>
+        <li><a href="https://arxiv.org/abs/1410.0265">A Data-and-Workload-Aware Algorithm for Range Queries under Differential Privacy</a></li>
+        <li><a href="https://arxiv.org/abs/1504.05998">Differentially Private k-Means Clustering</a></li>
+        <li><a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42852.pdf">RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response</a></li>
+        <li><a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tianhao.pdf">Locally Differentially Private Protocols for Frequency Estimation</a></li>
         </ul>
         </td>
     </tr>
